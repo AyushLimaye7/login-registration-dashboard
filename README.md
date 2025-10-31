@@ -23,7 +23,11 @@ A full-stack web application featuring user authentication and a data visualizat
   - Backend: FastAPI, PostgreSQL
   - Data Visualization: Recharts
   - Development: Docker, Turborepo
-Implement a user dashboard.
+- **Modern Tech Stack**
+  - Frontend: Next.js 14, TypeScript, Tailwind CSS
+  - Backend: FastAPI, PostgreSQL
+  - Data Visualization: Recharts
+  - Development: Docker, Turborepo
 
 
 
