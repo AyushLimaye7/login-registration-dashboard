@@ -1,5 +1,3 @@
-# shadcn/ui monorepo template
-
 # Login Registration Dashboard
 
 A full-stack web application featuring user authentication and a data visualization dashboard. Built with Next.js, FastAPI, and PostgreSQL.
