@@ -1,7 +1,28 @@
 # shadcn/ui monorepo template
 
-## Task
-Implement user authentication.
+# Login Registration Dashboard
+
+A full-stack web application featuring user authentication and a data visualization dashboard. Built with Next.js, FastAPI, and PostgreSQL.
+
+## Features
+
+- **User Authentication**
+  - Secure JWT-based authentication
+  - User registration and login
+  - Protected routes and API endpoints
+  - Password hashing and security
+
+- **Interactive Dashboard**
+  - Real-time data visualization
+  - Marketing mix model analysis
+  - Interactive charts and graphs
+  - Responsive design
+
+- **Modern Tech Stack**
+  - Frontend: Next.js 14, TypeScript, Tailwind CSS
+  - Backend: FastAPI, PostgreSQL
+  - Data Visualization: Recharts
+  - Development: Docker, Turborepo
 Implement a user dashboard.
 
 
